@@ -1,4 +1,4 @@
-package Regexp::Pattern::YouTube;
+package Regexp::Pattern::Twitter;
 
 # DATE
 # VERSION
@@ -8,7 +8,7 @@ our %RE = (
 );
 
 1;
-# ABSTRACT: Regexp patterns related to YouTube
+# ABSTRACT: Regexp patterns related to Twitter
 
 =head1 SEE ALSO
 
