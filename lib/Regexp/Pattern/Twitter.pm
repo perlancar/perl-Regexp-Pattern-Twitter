@@ -9,3 +9,7 @@ our %RE = (
 
 1;
 # ABSTRACT: Regexp patterns related to YouTube
+
+=head1 SEE ALSO
+
+L<Sah::Schemas::Twitter>
